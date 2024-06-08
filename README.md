@@ -1,7 +1,7 @@
 # X-Backup
 
 ## ⚠ PLEASE ATTENTION ⚠
-This program was developed with Windows 10
+This program was developed with Windows
 
 I'll also make a linux version but not now
 
