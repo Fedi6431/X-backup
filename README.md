@@ -7,3 +7,5 @@
 Don't worry about this Windows Defender popup, because you have downloaded a file from an external source, so Windows Defender will say that running this app can expose you to risk
 
 Just click on "run" button
+
+When you run the installer, it will download the necessary packages on requirements.txt and then start the program
