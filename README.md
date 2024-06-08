@@ -28,3 +28,19 @@ If you type "system" the program will open a selection menu for moving the data.
 ![immagine](https://github.com/Fedi6431/X-backup/assets/102946457/bd4930b5-6c7a-400f-b282-de93c312677d)
 
 After selecting the option, it will ask you for the folder on the USB where the files are present and then ask you where to move them in your Personal Computer.
+
+#### - usb
+For the "usb" command is the same thing but it will ask you first the Personal Computer folder address and after the USB address
+
+![immagine](https://github.com/Fedi6431/X-backup/assets/102946457/ccbde659-b34e-447a-b9c5-8d36c657bc95)
+
+#### - version
+The program will show the current version
+
+![immagine](https://github.com/Fedi6431/X-backup/assets/102946457/3138f9f6-22d3-4ceb-a58c-c708765cada6)
+
+#### - info
+The program will show the author and the github link
+
+![immagine](https://github.com/Fedi6431/X-backup/assets/102946457/2711d393-a3b0-4b99-9c37-30fe3f545514)
+
