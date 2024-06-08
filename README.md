@@ -11,7 +11,6 @@ Just click on "run" button
 When you run the installer, it will download the necessary packages on requirements.txt and then start the program
 
 ## X-Backup
-![immagine](https://github.com/Fedi6431/X-backup/assets/102946457/45857fb1-9ff4-44fc-9972-8fb138c20db3)
-
+![immagine](https://github.com/Fedi6431/X-backup/assets/102946457/95e37e55-9b02-42b2-964f-5b6e7e15b329)
 
 This is the main GUI of the program.
