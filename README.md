@@ -14,3 +14,7 @@ When you run the installer, it will download the necessary packages on requireme
 ![immagine](https://github.com/Fedi6431/X-backup/assets/102946457/95e37e55-9b02-42b2-964f-5b6e7e15b329)
 
 This is the main GUI of the program.
+
+### Functions & Controls
+
+#### help
