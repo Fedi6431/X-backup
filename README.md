@@ -27,4 +27,4 @@ If you type "system" the program will open a selection menu for moving the data.
 
 ![immagine](https://github.com/Fedi6431/X-backup/assets/102946457/bd4930b5-6c7a-400f-b282-de93c312677d)
 
-After selecting the option, it will ask you for the folder on the USB where the files are present and then ask you where to move them in your Personal Computer
+After selecting the option, it will ask you for the folder on the USB where the files are present and then ask you where to move them in your Personal Computer.
