@@ -50,7 +50,7 @@ def Test():
 {r} ░    ░   ░       ░    ░   ░   ▒   ░        ░ ░░ ░  ░░░ ░ ░ ░░       
 {r} ░    ░    ░      ░            ░  ░░ ░      ░  ░      ░              
 {r}           ░           ░           ░                                 
-{r}Type "help" to see all command                     V1.0
+{r}Type "help" to see all command                     V1.3
         '''
 
         option = f''' 
@@ -274,7 +274,7 @@ def Test():
         if Type == 'version':
             print(f"|Verion type: Beta        |")
             print(f"|-------------------------|")
-            print(f"|Version number: 1.2      |")
+            print(f"|Version number: 1.3      |")
             print(f"|-------------------------|")
             print(f"\n")
             input("Press enter to get back in the main screen")
@@ -290,7 +290,7 @@ def Test():
         if Type == 'Version':
             print(f"|Verion type: Beta        |")
             print(f"|-------------------------|")
-            print(f"|Version number: 1.2      |")
+            print(f"|Version number: 1.3      |")
             print(f"|-------------------------|")
             print(f"\n")
             input("Press enter to get back in the main screen")
