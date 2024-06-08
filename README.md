@@ -1,4 +1,4 @@
-# X-backup
+# X-Backup
 ### Do backup in the easy way
 # User guide 
 ## Installer.bat
@@ -9,3 +9,5 @@ Don't worry about this Windows Defender popup, because you have downloaded a fil
 Just click on "run" button
 
 When you run the installer, it will download the necessary packages on requirements.txt and then start the program
+
+## X-Backup
