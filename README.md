@@ -18,3 +18,6 @@ This is the main GUI of the program.
 ### Functions & Controls
 
 #### help
+If you type "help" in the program console, you will be shown all the possible commands with their descriptions.
+
+![immagine](https://github.com/Fedi6431/X-backup/assets/102946457/ae7bddb7-8903-41ec-aac5-6de9620156bb)
