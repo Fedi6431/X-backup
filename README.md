@@ -21,15 +21,15 @@ This is the main GUI of the program.
 ### Functions & Controls
 
 #### - help
-If you type "help" in the program console, you will be shown all the possible commands with their descriptions.
+If you type `help` in the program console, you will be shown all the possible commands with their descriptions.
 
 #### - system
-If you type "system" the program will open a selection menu for moving the data.
+If you type `system` the program will open a selection menu for moving the data.
 
 After selecting the option, it will ask you for the folder on the USB where the files are present and then ask you where to move them in your Personal Computer.
 
 #### - usb
-For the "usb" command is the same thing but it will ask you first the Personal Computer folder address and after the USB address
+For the `usb` command is the same thing but it will ask you first the Personal Computer folder address and after the USB address
 
 #### - version
 The program will show the current version
