@@ -1,39 +1,31 @@
-# X-Backup
+# File Transfer Tool
 
-## ⚠ PLEASE ATTENTION ⚠
-This program was developed with Windows
+A simple command-line tool to transfer files between a USB drive and your computer.
 
-# User guide 
-## Installer
-![immagine](https://github.com/Fedi6431/X-backup/assets/102946457/5d8e56fa-1c7f-498b-b72d-cab57513cb63)
+## Features
 
-Don't worry about this Windows Defender popup, because you have downloaded a file from an external source, so Windows Defender will say that running this app can expose you to risk
+- Transfer files from USB to computer
+- Transfer files from computer to USB
+- Multiple copy options with different metadata and permission settings
+- Admin privileges for enhanced file operations
 
-Just click on "more info" and the "run" button
+## Installation
 
-When you run the installer, it will download the necessary packages on requirements.txt and then start the program
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/fedi6431/file-transfer-tool.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd file-transfer-tool
+    ```
+3. Install the required dependencies:
+    ```sh
+    pip install colorama
+    ```
 
-## X-Backup
-![immagine](https://github.com/Fedi6431/X-backup/assets/102946457/95e37e55-9b02-42b2-964f-5b6e7e15b329)
+## Usage
 
-This is the main GUI of the program.
-
-### Functions & Controls
-
-#### - help
-If you type `help` in the program console, you will be shown all the possible commands with their descriptions.
-
-#### - system
-If you type `system` the program will open a selection menu for moving the data.
-
-After selecting the option, it will ask you for the folder on the USB where the files are present and then ask you where to move them in your Personal Computer.
-
-#### - usb
-For the `usb` command is the same thing but it will ask you first the Personal Computer folder address and after the USB address
-
-#### - version
-The program will show the current version
-
-#### - info
-The program will show the author and the github link
-
+Run the script with Python:
+```sh
+python script_name.py
