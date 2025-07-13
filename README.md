@@ -1,4 +1,4 @@
-# File Transfer Tool
+# X-Backup
 
 A simple command-line tool to transfer files between a USB drive and your computer.
 
@@ -13,11 +13,11 @@ A simple command-line tool to transfer files between a USB drive and your comput
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/fedi6431/file-transfer-tool.git
+    git clone https://github.com/fedi6431/X-Backup.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd file-transfer-tool
+    cd X-Backup
     ```
 3. Install the required dependencies:
     ```sh
