@@ -28,4 +28,4 @@ A simple command-line tool to transfer files between a USB drive and your comput
 
 Run the script with Python:
 ```sh
-python X-backup.py
+python X-Backup.py
